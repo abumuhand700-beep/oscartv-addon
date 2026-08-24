@@ -1,1 +1,0 @@
-{"name":"oscartv-novio-stream-addon","version":"0.1.0","private":true,"description":"OscarTV stream source addon for Stremio/Novio","main":"index.js","scripts":{"start":"node index.js"},"engines":{"node":">=18"},"dependencies":{"express":"^4.21.2","axios":"^1.7.9"}}
