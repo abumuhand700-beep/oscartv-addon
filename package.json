@@ -1,0 +1,1 @@
+{"name":"oscartv-novio-stream-addon","version":"0.4.0","main":"index.js","scripts":{"start":"node index.js"},"dependencies":{"axios":"^1.7.9","express":"^4.21.2"},"engines":{"node":">=18"}}
